@@ -14,3 +14,17 @@ while number!=guess:
         tries+=1
 print(f"you guess the number right it took you {tries} tries")
 
+
+dasadaasdada
+
+
+
+
+
+
+
+
+
+
+
+
