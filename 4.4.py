@@ -13,3 +13,4 @@ while number!=guess:
         guess = int(input("guess a number:"))
         tries+=1
 print(f"you guess the number right it took you {tries} tries")
+
